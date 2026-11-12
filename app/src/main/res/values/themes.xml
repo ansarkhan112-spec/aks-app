@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.AKS" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#00695C</item>
+        <item name="colorPrimaryVariant">#004D40</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#00897B</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+    </style>
+</resources>
